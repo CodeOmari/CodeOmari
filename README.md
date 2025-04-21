@@ -60,8 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/JakesOmari/JakesOmari/raw/main/assets/code.gif" width="300"/>
+  <img src="https://github.com/CodeOmari/CodeOmari/raw/main/assets/code.gif" width="300"/>
 </p>
 
-> "Code is not just code, it's a bridge between ideas and reality."
 
