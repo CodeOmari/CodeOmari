@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on several full-stack projects using Django.
 - 🌱 I’m currently learning **React** to complement my Django backend skills.
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, Django**.
+- 💬 Ask me about **Python, HTML, CSS, JavaScript, Django, MySQL**.
 - 📫 How to reach me: jacksonomari2230@gmail.com
-- ⚡ NOTE: You can reach out to me for collaborations and contributions to my projects are warmly welcomed
+- ⚡ NOTE: I am open for collaborations and contributions to my projects are warmly welcomed🤝 
 
 ---
 
@@ -25,14 +25,15 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JakesOmari&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakesOmari&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeOmari&theme=radical" width="47%" />
 </p>
 
 ---
