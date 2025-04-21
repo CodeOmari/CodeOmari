@@ -60,6 +60,20 @@
 ---
 
 <p align="center">
-  <img src="https://svgshare.com/i/131z.svg" width="300" />
+  <img src="data:image/svg+xml;utf8,
+  <svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'>
+    <defs>
+      <linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'>
+        <stop offset='0%' stop-color='#00c6ff'>
+          <animate attributeName='stop-color' values='#00c6ff;#0072ff;#00c6ff' dur='5s' repeatCount='indefinite' />
+        </stop>
+        <stop offset='100%' stop-color='#0072ff'>
+          <animate attributeName='stop-color' values='#0072ff;#00c6ff;#0072ff' dur='5s' repeatCount='indefinite' />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width='300' height='100' fill='url(#grad)' rx='20' />
+  </svg>" />
 </p>
+
 
