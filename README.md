@@ -60,5 +60,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+  <img src="https://svgshare.com/i/131z.svg" width="300" />
 </p>
+
