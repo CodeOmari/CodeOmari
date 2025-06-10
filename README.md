@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on several **React** & **Django** projects to complement my skills.
-- 💬 Ask me about **Python, HTML, CSS, Bootstrap, JavaScript, React, Django, MySQL**.
+- 💬 Ask me about **Python, HTML, CSS, Bootstrap, JavaScript, React, Django, or MySQL**.
 - 📫 How to reach me: jacksonomari2230@gmail.com
 - ⚡ NOTE: I am open for collaborations and contributions to my projects are warmly welcomed🤝 
 
