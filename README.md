@@ -10,8 +10,8 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on several full-stack projects using Django.
-- 🌱 I’m currently learning **React** to complement my Django backend skills.
-- 💬 Ask me about **Python, HTML, CSS, Bootstrap, JavaScript, Django, MySQL**.
+- 🌱 I’m currently working on several  **React** projects to complement my front-end skills.
+- 💬 Ask me about **Python, HTML, CSS, Bootstrap, JavaScript, React, Django, MySQL**.
 - 📫 How to reach me: jacksonomari2230@gmail.com
 - ⚡ NOTE: I am open for collaborations and contributions to my projects are warmly welcomed🤝 
 
@@ -47,7 +47,7 @@
 - 💻 VS Code, PyCharm
 - 🐍 Python, Django
 - 💅 HTML5, CSS3, Bootstrap
-- ⚛️ React (learning in progress)
+- ⚛️ JavaScript, React
 - 🌐 Git & GitHub
 
 ---
