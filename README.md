@@ -42,7 +42,7 @@
 - 💻 VS Code, PyCharm
 - 🐍 Python, Django
 - 💅 HTML5, CSS3, Bootstrap
-- ⚛️ JavaScript
+- ⚛️ JavaScript, React
 - 🌐 Git & GitHub
 
 ---
