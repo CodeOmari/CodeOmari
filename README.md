@@ -39,7 +39,7 @@
 
 ### 🚀 My Current Tools
 
-- 💻 VS Code, PyCharm
+- 💻 VS Code, Postman
 - 🐍 Python, Django
 - 💅 HTML5, CSS3, Bootstrap
 - ⚛️ JavaScript, React
